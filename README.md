@@ -1,1 +1,1 @@
-# Battle Game
+# Java skeleton for IntelliJ
